@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="A enumeration member" Url="html/648d7578-15fc-da34-c60a-fefbafc37af3.htm" />
+  <HelpKINode Title="AAMotion namespace" Url="html/b6435755-45bf-e9a9-42d8-d5a20c4ab75f.htm" />
+  <HelpKINode Title="AAMotion.AxisHomeMethod enumeration" Url="html/10d9419e-336c-79bb-6983-fea755092a47.htm" />
+  <HelpKINode Title="AAMotion.AxisHomingStatus enumeration" Url="html/414ee582-d3fd-bb1d-2583-556358055003.htm" />
+  <HelpKINode Title="AAMotion.AxisMotionStatus enumeration" Url="html/54f71b35-0c77-e2c1-94d2-287bc4171df6.htm" />
+  <HelpKINode Title="AAMotion.AxisStopType enumeration" Url="html/661e92ff-9630-a50f-69b2-7bde50ff91cc.htm" />
+  <HelpKINode Title="AAMotion.CommType enumeration" Url="html/44750821-dd4e-4734-145f-85147aeda8e0.htm" />
+  <HelpKINode Title="AAMotion.ControllerType enumeration" Url="html/11e12640-76ed-6f36-358f-c9c7c359dbd3.htm" />
+  <HelpKINode Title="AAMotion.ErrorList enumeration" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="AAMotion.GroupAxisMask enumeration" Url="html/648d7578-15fc-da34-c60a-fefbafc37af3.htm" />
+  <HelpKINode Title="AAMotion.GroupAxisPropertyList enumeration" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="AAMotion.IGroupAxis interface" Url="html/ab6008df-9872-94ae-c52f-91e05dc005e8.htm" />
+  <HelpKINode Title="AAMotion.IIOModule interface" Url="html/030e2de1-1c8f-a2bc-b5a9-e37836144889.htm" />
+  <HelpKINode Title="AAMotion.INode interface" Url="html/5d5762d6-20ff-6e91-b3e8-1d76c822deaf.htm" />
+  <HelpKINode Title="AAMotion.ISingleAxis interface" Url="html/a2148d68-b41a-7785-9649-bf725ade98e9.htm" />
+  <HelpKINode Title="AAMotion.MotionController class" Url="html/8de1b5e9-ec9a-1c1c-1b4a-2ea1047c12c9.htm" />
+  <HelpKINode Title="AAMotion.MotorType enumeration" Url="html/6ed9245e-0ba2-2b1b-dc81-0b5a39d74cd6.htm" />
+  <HelpKINode Title="AAMotion.SingleAxisPropertyList enumeration" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="Abort method" Url="html/03335ec5-9ea8-d2e7-6436-552ce21a86c5.htm" />
+  <HelpKINode Title="AbortFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ActualPosition enumeration member" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="ActualPosition property" Url="html/3aa0bd0a-995b-c09b-ec05-65109a952a48.htm" />
+  <HelpKINode Title="ActualVelocity enumeration member" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="ActualVelocity property" Url="html/994aeb97-5fce-d497-6bfb-4b0fdbede237.htm" />
+  <HelpKINode Title="AG300 enumeration member" Url="html/11e12640-76ed-6f36-358f-c9c7c359dbd3.htm" />
+  <HelpKINode Title="ArcXy method" Url="html/19218a82-115c-3c9d-79ec-f8311d54aef3.htm" />
+  <HelpKINode Title="ArcYz method" Url="html/a9cfb0d5-efe8-42bb-7548-325ee171e470.htm" />
+  <HelpKINode Title="ArcZx method" Url="html/29364b7b-520c-8c57-3d11-4f53fb475395.htm" />
+  <HelpKINode Title="Axis property" Url="html/77f46e8d-4993-5ca5-630c-1a211c501dc5.htm" />
+  <HelpKINode Title="AxisA field" Url="html/38a23d7f-95ae-dfd9-dfd7-62b2dbc8cbea.htm" />
+  <HelpKINode Title="AxisA property" Url="html/2448c3e3-7484-7146-aa4e-0651e88549b3.htm" />
+  <HelpKINode Title="AxisB field" Url="html/863a1dc1-6b11-8f79-aedb-c7b619cedfa5.htm" />
+  <HelpKINode Title="AxisB property" Url="html/d6b14982-52c2-0c10-804a-f95b679a10ac.htm" />
+  <HelpKINode Title="AxisC field" Url="html/30b21ec5-abf2-b6f9-5923-eb99f3ef9814.htm" />
+  <HelpKINode Title="AxisC property" Url="html/d556aa47-eb9a-94bc-52ad-ab02b3ddf46e.htm" />
+  <HelpKINode Title="AxisHomeMethod enumeration" Url="html/10d9419e-336c-79bb-6983-fea755092a47.htm" />
+  <HelpKINode Title="AxisHomingStatus enumeration" Url="html/414ee582-d3fd-bb1d-2583-556358055003.htm" />
+  <HelpKINode Title="AxisMotionStatus enumeration" Url="html/54f71b35-0c77-e2c1-94d2-287bc4171df6.htm" />
+  <HelpKINode Title="AxisStopType enumeration" Url="html/661e92ff-9630-a50f-69b2-7bde50ff91cc.htm" />
+  <HelpKINode Title="B enumeration member" Url="html/648d7578-15fc-da34-c60a-fefbafc37af3.htm" />
+  <HelpKINode Title="C enumeration member" Url="html/648d7578-15fc-da34-c60a-fefbafc37af3.htm" />
+  <HelpKINode Title="CAN enumeration member" Url="html/44750821-dd4e-4734-145f-85147aeda8e0.htm" />
+  <HelpKINode Title="Central_I enumeration member" Url="html/11e12640-76ed-6f36-358f-c9c7c359dbd3.htm" />
+  <HelpKINode Title="CheckSDOMappingFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ClearBuffer method" Url="html/788808ac-8e90-3edf-1b87-74b544883f2f.htm" />
+  <HelpKINode Title="CNCFIFOInvolvedAxes enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="CNCFIFOInvolvedAxes property" Url="html/e4ef7fe5-3d81-60c4-21b2-f73e9044284b.htm" />
+  <HelpKINode Title="CNCFIFOMembersAxes enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="CNCFIFOMembersAxes property" Url="html/a0cb893f-e5cb-74ea-077c-36d0f3e042aa.htm" />
+  <HelpKINode Title="CNCFIFOMotionStatus enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="CNCFIFOMotionStatus property" Url="html/b3d152dd-d6e6-c030-64c6-e2376a96b324.htm" />
+  <HelpKINode Title="CNCSetPushParamFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="CNCSetPushTypeFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="CommandIsReadOnly enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="CommandIsWriteOnly enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="CommandPosition enumeration member" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="CommandPosition property" Url="html/1c9ca658-afff-d6e1-90bb-4025e348a584.htm" />
+  <HelpKINode Title="CommandVelocity enumeration member" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="CommandVelocity property" Url="html/a9e56c18-7433-daf0-d236-dff057e2135d.htm" />
+  <HelpKINode Title="CommmunicationType property" Url="html/93c82471-14bf-8493-a016-7f0e2d5d0423.htm" />
+  <HelpKINode Title="CommType enumeration" Url="html/44750821-dd4e-4734-145f-85147aeda8e0.htm" />
+  <HelpKINode Title="CommunicatorFailedToOpen enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="CommutationError enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ConfigurePDO method">
+    <HelpKINode Title="IGroupAxis.ConfigurePDO Method " Url="html/223d6e95-5004-f739-51e1-92e10b0c3c05.htm" />
+    <HelpKINode Title="ISingleAxis.ConfigurePDO Method " Url="html/8e918c86-2186-f02a-d289-16966c192f22.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConfigurePDOMappingFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ConfigureSDO method">
+    <HelpKINode Title="IGroupAxis.ConfigureSDO Method " Url="html/39095042-c43c-608c-96ea-7ca05acbc87e.htm" />
+    <HelpKINode Title="ISingleAxis.ConfigureSDO Method " Url="html/33738830-c4ef-6cc4-6358-44b41d73585d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConfigureSDOMappingFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="Connect method" Url="html/1c510279-64e3-7273-78a2-c66652fb6688.htm" />
+  <HelpKINode Title="ConnectCAN enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ConnectedMotorType property" Url="html/2abf0688-265d-d3b2-401f-ffc0e9b987e7.htm" />
+  <HelpKINode Title="ConnectSerial enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ConnectSimulator enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ConnectTCPIP enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ControllerType enumeration" Url="html/11e12640-76ed-6f36-358f-c9c7c359dbd3.htm" />
+  <HelpKINode Title="DCBrush enumeration member" Url="html/6ed9245e-0ba2-2b1b-dc81-0b5a39d74cd6.htm" />
+  <HelpKINode Title="Disconnect enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="Disconnect method" Url="html/4aedc4a6-574a-72a2-62a6-1980572a90cd.htm" />
+  <HelpKINode Title="Dispose method" Url="html/1e00cc3c-546c-2b8f-a5b7-1a4144c382bf.htm" />
+  <HelpKINode Title="EmergencyDeceleration enumeration member" Url="html/661e92ff-9630-a50f-69b2-7bde50ff91cc.htm" />
+  <HelpKINode Title="Enable method" Url="html/b7cb84c2-c870-4c1b-62a9-16532bfe9fe0.htm" />
+  <HelpKINode Title="Error enumeration member">
+    <HelpKINode Title="AxisHomingStatus Enumeration" Url="html/414ee582-d3fd-bb1d-2583-556358055003.htm" />
+    <HelpKINode Title="AxisMotionStatus Enumeration" Url="html/54f71b35-0c77-e2c1-94d2-287bc4171df6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorCode property">
+    <HelpKINode Title="INode.ErrorCode Property " Url="html/4bc85458-edb6-bdfb-a412-23d7e1b18143.htm" />
+    <HelpKINode Title="MotionController.ErrorCode Property " Url="html/80c3783d-8fcf-8e47-89c9-ca112984a1f4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorList enumeration" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ErrorMessage property">
+    <HelpKINode Title="INode.ErrorMessage Property " Url="html/ddb1f25b-f8d4-6591-4d2b-f21c5d313ce6.htm" />
+    <HelpKINode Title="MotionController.ErrorMessage Property " Url="html/bec00057-9cd2-b59a-e19d-bb36bba55349.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Ethernet enumeration member" Url="html/44750821-dd4e-4734-145f-85147aeda8e0.htm" />
+  <HelpKINode Title="ExceptionError enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="FreeSpace enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="FreeSpace property" Url="html/2805ae17-d3c0-9b63-b202-cb83dcaa387f.htm" />
+  <HelpKINode Title="GetAllErrorCodes method" Url="html/1a1cc5bf-16f9-3905-9f8d-80a6e78d09ac.htm" />
+  <HelpKINode Title="GetAllErrorMessages method" Url="html/cb1ab110-5c6e-1fe9-8f9b-827215fbc1ba.htm" />
+  <HelpKINode Title="GetBufferPendingCommands method" Url="html/0f843cc1-e255-e3dc-3b05-aac2941bd351.htm" />
+  <HelpKINode Title="GetDSPFirmwareVersion method" Url="html/01c4d321-0512-a19d-bb7a-8507c955e32d.htm" />
+  <HelpKINode Title="GetFPGAFirmwareVersion method" Url="html/a24ffdc0-700f-bcb2-6378-a11b96c1be3e.htm" />
+  <HelpKINode Title="GetInputBit method" Url="html/420755d9-0254-8ccb-7be9-10b6031b222a.htm" />
+  <HelpKINode Title="GetMotionStatusParameterFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GetMotorTypeParameterFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GetOutputBit method" Url="html/d5559b90-23f3-cf30-3367-e03e06d844bc.htm" />
+  <HelpKINode Title="GetSmoothFactorParameterFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GetVersion enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="Group field" Url="html/e5c6f9a8-c8b1-0356-6056-7151df40dfbd.htm" />
+  <HelpKINode Title="Group property" Url="html/c0497b28-aa8f-b761-779a-98f59426947b.htm" />
+  <HelpKINode Title="GroupAxisMask enumeration" Url="html/648d7578-15fc-da34-c60a-fefbafc37af3.htm" />
+  <HelpKINode Title="GroupAxisMaskNotSupported enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GroupAxisPropertyList enumeration" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="GroupBufferPauseError enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GroupBufferResumeError enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GroupClearBufferFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GroupEnable method" Url="html/c0c1e749-6ac2-3c16-c74d-16ae23fad265.htm" />
+  <HelpKINode Title="GroupGetMotionIDFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GroupSetMotionAccelerationOutOfRange enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GroupSetMotionDecelerationOutOfRange enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GroupSetMotionJerkOufOfRange enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GroupSetMotionPercentageOutOfRange enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="GroupStopError enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="Helix method" Url="html/6091c447-f919-6840-90e0-caf41beef011.htm" />
+  <HelpKINode Title="Home method" Url="html/188017b8-797d-5087-0a22-ddf171412edb.htm" />
+  <HelpKINode Title="Homed enumeration member" Url="html/414ee582-d3fd-bb1d-2583-556358055003.htm" />
+  <HelpKINode Title="HomingStatus enumeration member" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="HomingStatus property" Url="html/6e64ff6c-0fad-605a-e012-38c977bf035b.htm" />
+  <HelpKINode Title="Idle enumeration member" Url="html/54f71b35-0c77-e2c1-94d2-287bc4171df6.htm" />
+  <HelpKINode Title="IGroupAxis interface">
+    <HelpKINode Title="IGroupAxis Interface" Url="html/ab6008df-9872-94ae-c52f-91e05dc005e8.htm" />
+    <HelpKINode Title="about IGroupAxis interface" Url="html/ab6008df-9872-94ae-c52f-91e05dc005e8.htm" />
+    <HelpKINode Title="methods" Url="html/939d2a93-1c4a-2cc6-8eb9-6f37c2c09c3d.htm" />
+    <HelpKINode Title="properties" Url="html/8f2d0c3d-7605-b359-f567-2732618fec89.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IGroupAxis.Abort method" Url="html/03335ec5-9ea8-d2e7-6436-552ce21a86c5.htm" />
+  <HelpKINode Title="IGroupAxis.ArcXy method" Url="html/19218a82-115c-3c9d-79ec-f8311d54aef3.htm" />
+  <HelpKINode Title="IGroupAxis.ArcYz method" Url="html/a9cfb0d5-efe8-42bb-7548-325ee171e470.htm" />
+  <HelpKINode Title="IGroupAxis.ArcZx method" Url="html/29364b7b-520c-8c57-3d11-4f53fb475395.htm" />
+  <HelpKINode Title="IGroupAxis.AxisA property" Url="html/2448c3e3-7484-7146-aa4e-0651e88549b3.htm" />
+  <HelpKINode Title="IGroupAxis.AxisB property" Url="html/d6b14982-52c2-0c10-804a-f95b679a10ac.htm" />
+  <HelpKINode Title="IGroupAxis.AxisC property" Url="html/d556aa47-eb9a-94bc-52ad-ab02b3ddf46e.htm" />
+  <HelpKINode Title="IGroupAxis.ClearBuffer method" Url="html/788808ac-8e90-3edf-1b87-74b544883f2f.htm" />
+  <HelpKINode Title="IGroupAxis.CNCFIFOInvolvedAxes property" Url="html/e4ef7fe5-3d81-60c4-21b2-f73e9044284b.htm" />
+  <HelpKINode Title="IGroupAxis.CNCFIFOMembersAxes property" Url="html/a0cb893f-e5cb-74ea-077c-36d0f3e042aa.htm" />
+  <HelpKINode Title="IGroupAxis.CNCFIFOMotionStatus property" Url="html/b3d152dd-d6e6-c030-64c6-e2376a96b324.htm" />
+  <HelpKINode Title="IGroupAxis.ConfigurePDO method" Url="html/223d6e95-5004-f739-51e1-92e10b0c3c05.htm" />
+  <HelpKINode Title="IGroupAxis.ConfigureSDO method" Url="html/39095042-c43c-608c-96ea-7ca05acbc87e.htm" />
+  <HelpKINode Title="IGroupAxis.Enable method" Url="html/b7cb84c2-c870-4c1b-62a9-16532bfe9fe0.htm" />
+  <HelpKINode Title="IGroupAxis.FreeSpace property" Url="html/2805ae17-d3c0-9b63-b202-cb83dcaa387f.htm" />
+  <HelpKINode Title="IGroupAxis.GetBufferPendingCommands method" Url="html/0f843cc1-e255-e3dc-3b05-aac2941bd351.htm" />
+  <HelpKINode Title="IGroupAxis.Group property" Url="html/c0497b28-aa8f-b761-779a-98f59426947b.htm" />
+  <HelpKINode Title="IGroupAxis.Helix method" Url="html/6091c447-f919-6840-90e0-caf41beef011.htm" />
+  <HelpKINode Title="IGroupAxis.InMotionID property" Url="html/648d6eac-0cb1-7c5d-f52c-8e6300445eaf.htm" />
+  <HelpKINode Title="IGroupAxis.InMotionSegmentEntry property" Url="html/505ceee2-1558-dc30-e916-2c40b2bbf834.htm" />
+  <HelpKINode Title="IGroupAxis.IO_A property" Url="html/5d2b8d0e-be1d-5177-e640-247ff662f31f.htm" />
+  <HelpKINode Title="IGroupAxis.IO_B property" Url="html/54959c1b-b8f2-6b86-6eea-a99d1be875d1.htm" />
+  <HelpKINode Title="IGroupAxis.IO_C property" Url="html/30bad523-0ac4-25f2-bb33-1ee8d54beb33.htm" />
+  <HelpKINode Title="IGroupAxis.LastPushedEntry property" Url="html/123c77ea-73b3-75da-2198-605fefee3047.htm" />
+  <HelpKINode Title="IGroupAxis.LastSegmentEntry property" Url="html/334bbcb7-b8a1-942f-0e94-7fa9ef3359d3.htm" />
+  <HelpKINode Title="IGroupAxis.LastSegmentPushParam property" Url="html/ca88609b-ff1a-2695-d302-c1b3a731b990.htm" />
+  <HelpKINode Title="IGroupAxis.LastSegmentTotalParam property" Url="html/4497967c-7491-73a6-dee4-2a4f1bc84aee.htm" />
+  <HelpKINode Title="IGroupAxis.LastUsedID property" Url="html/8c2310d7-a13f-1686-bb0c-1340f905def8.htm" />
+  <HelpKINode Title="IGroupAxis.Linear method" Url="html/002d4eba-23a3-d34d-6f28-2d73c827024d.htm" />
+  <HelpKINode Title="IGroupAxis.MotionBegin method" Url="html/634e36c6-5d07-efa7-e7fa-7e26c5b2252f.htm" />
+  <HelpKINode Title="IGroupAxis.OldestEntry property" Url="html/504dd320-2302-992c-6be8-5fccf9e0568b.htm" />
+  <HelpKINode Title="IGroupAxis.PauseBufferExecution method" Url="html/484f7821-49ac-2d24-9a2c-28126c92bf5f.htm" />
+  <HelpKINode Title="IGroupAxis.PushDelayMotion method" Url="html/79f5283c-2b4b-b760-8763-915319a0e9a2.htm" />
+  <HelpKINode Title="IGroupAxis.ResumeBufferExecution method" Url="html/a3508689-0d2a-6720-1dea-36d35f9eb131.htm" />
+  <HelpKINode Title="IGroupAxis.ServoOffAllAxis method" Url="html/b3c735a6-ff5a-6297-3b46-ca9efd21404b.htm" />
+  <HelpKINode Title="IGroupAxis.ServoOnAllAxis method" Url="html/dc69d29f-2203-38ab-6019-b411d35eb4a6.htm" />
+  <HelpKINode Title="IGroupAxis.SetMotionProfile method" Url="html/0f0ff056-8314-b1db-7f1b-709a7cc9dfbe.htm" />
+  <HelpKINode Title="IGroupAxis.SetPositionsZero method" Url="html/e1113a3e-0e2d-58a8-2615-2e330cc4b361.htm" />
+  <HelpKINode Title="IGroupAxis.SetStartPositions method" Url="html/39eb4653-cad9-1db7-f8af-791baec48006.htm" />
+  <HelpKINode Title="IGroupAxis.Stop method" Url="html/88bb1616-05e1-0f30-ab77-ac0afeb0ac3b.htm" />
+  <HelpKINode Title="IGroupAxis.VectorSpeed property" Url="html/f3caf62e-6bf7-d675-fd3f-40effa75bdcb.htm" />
+  <HelpKINode Title="IGroupAxis.WriteDOPort method" Url="html/6fc2dc0e-f5d0-42d3-2db1-a5d3d71b3d1d.htm" />
+  <HelpKINode Title="IGroupAxis.WriteGenData method" Url="html/4874f829-ddcd-ce12-dce1-c9f8849e603d.htm" />
+  <HelpKINode Title="IIOModule interface">
+    <HelpKINode Title="IIOModule Interface" Url="html/030e2de1-1c8f-a2bc-b5a9-e37836144889.htm" />
+    <HelpKINode Title="about IIOModule interface" Url="html/030e2de1-1c8f-a2bc-b5a9-e37836144889.htm" />
+    <HelpKINode Title="methods" Url="html/8ceb8859-002f-4f33-edd2-f6237da579d8.htm" />
+    <HelpKINode Title="properties" Url="html/0575885f-8246-1f29-0d5c-1cefe1f5765e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IIOModule.GetInputBit method" Url="html/420755d9-0254-8ccb-7be9-10b6031b222a.htm" />
+  <HelpKINode Title="IIOModule.GetOutputBit method" Url="html/d5559b90-23f3-cf30-3367-e03e06d844bc.htm" />
+  <HelpKINode Title="IIOModule.InbitsCount property" Url="html/2ff710f9-f9d6-63a3-5a12-1f146b1f3224.htm" />
+  <HelpKINode Title="IIOModule.OutbitsCount property" Url="html/fb8d6270-c994-137e-9c6e-29c1c696d9ae.htm" />
+  <HelpKINode Title="IIOModule.SetOutputBit method" Url="html/33d7ee33-abae-3e74-ad52-5c4181b28fa2.htm" />
+  <HelpKINode Title="InbitsCount property" Url="html/2ff710f9-f9d6-63a3-5a12-1f146b1f3224.htm" />
+  <HelpKINode Title="InMotion enumeration member">
+    <HelpKINode Title="AxisHomingStatus Enumeration" Url="html/414ee582-d3fd-bb1d-2583-556358055003.htm" />
+    <HelpKINode Title="AxisMotionStatus Enumeration" Url="html/54f71b35-0c77-e2c1-94d2-287bc4171df6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InMotionID enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="InMotionID property" Url="html/648d6eac-0cb1-7c5d-f52c-8e6300445eaf.htm" />
+  <HelpKINode Title="InMotionSegmentEntry enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="InMotionSegmentEntry property" Url="html/505ceee2-1558-dc30-e916-2c40b2bbf834.htm" />
+  <HelpKINode Title="INode interface">
+    <HelpKINode Title="INode Interface" Url="html/5d5762d6-20ff-6e91-b3e8-1d76c822deaf.htm" />
+    <HelpKINode Title="about INode interface" Url="html/5d5762d6-20ff-6e91-b3e8-1d76c822deaf.htm" />
+    <HelpKINode Title="properties" Url="html/489fc97c-022c-c08b-1d2c-d479140f4a65.htm" />
+  </HelpKINode>
+  <HelpKINode Title="INode.Axis property" Url="html/77f46e8d-4993-5ca5-630c-1a211c501dc5.htm" />
+  <HelpKINode Title="INode.ErrorCode property" Url="html/4bc85458-edb6-bdfb-a412-23d7e1b18143.htm" />
+  <HelpKINode Title="INode.ErrorMessage property" Url="html/ddb1f25b-f8d4-6591-4d2b-f21c5d313ce6.htm" />
+  <HelpKINode Title="INode.UpdateDisplay property" Url="html/d33feb04-9aef-2fe0-77ad-b1f49b1d80c4.htm" />
+  <HelpKINode Title="IOReadInputBitsFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="IOReadOutputBitsFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="IOWriteOutputBitsFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="IO_A field" Url="html/26f3e804-b8e3-58fc-0cd3-f70ed300b7ac.htm" />
+  <HelpKINode Title="IO_A property" Url="html/5d2b8d0e-be1d-5177-e640-247ff662f31f.htm" />
+  <HelpKINode Title="IO_B field" Url="html/11a2061b-6faf-a1ad-27f0-a7bd24673728.htm" />
+  <HelpKINode Title="IO_B property" Url="html/54959c1b-b8f2-6b86-6eea-a99d1be875d1.htm" />
+  <HelpKINode Title="IO_C field" Url="html/3f1271db-b7d9-5123-0436-a68d77468fb7.htm" />
+  <HelpKINode Title="IO_C property" Url="html/30bad523-0ac4-25f2-bb33-1ee8d54beb33.htm" />
+  <HelpKINode Title="IsConnected property" Url="html/6df80dcd-c52b-1acd-9d34-14e9e9a1dd86.htm" />
+  <HelpKINode Title="ISingleAxis interface">
+    <HelpKINode Title="ISingleAxis Interface" Url="html/a2148d68-b41a-7785-9649-bf725ade98e9.htm" />
+    <HelpKINode Title="about ISingleAxis interface" Url="html/a2148d68-b41a-7785-9649-bf725ade98e9.htm" />
+    <HelpKINode Title="methods" Url="html/58d6ae6d-50e4-1d8c-b8f9-ebffd215c1b8.htm" />
+    <HelpKINode Title="properties" Url="html/76550017-5269-830d-7877-9d82a307e507.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISingleAxis.ActualPosition property" Url="html/3aa0bd0a-995b-c09b-ec05-65109a952a48.htm" />
+  <HelpKINode Title="ISingleAxis.ActualVelocity property" Url="html/994aeb97-5fce-d497-6bfb-4b0fdbede237.htm" />
+  <HelpKINode Title="ISingleAxis.CommandPosition property" Url="html/1c9ca658-afff-d6e1-90bb-4025e348a584.htm" />
+  <HelpKINode Title="ISingleAxis.CommandVelocity property" Url="html/a9e56c18-7433-daf0-d236-dff057e2135d.htm" />
+  <HelpKINode Title="ISingleAxis.ConfigurePDO method" Url="html/8e918c86-2186-f02a-d289-16966c192f22.htm" />
+  <HelpKINode Title="ISingleAxis.ConfigureSDO method" Url="html/33738830-c4ef-6cc4-6358-44b41d73585d.htm" />
+  <HelpKINode Title="ISingleAxis.ConnectedMotorType property" Url="html/2abf0688-265d-d3b2-401f-ffc0e9b987e7.htm" />
+  <HelpKINode Title="ISingleAxis.GroupEnable method" Url="html/c0c1e749-6ac2-3c16-c74d-16ae23fad265.htm" />
+  <HelpKINode Title="ISingleAxis.Home method" Url="html/188017b8-797d-5087-0a22-ddf171412edb.htm" />
+  <HelpKINode Title="ISingleAxis.HomingStatus property" Url="html/6e64ff6c-0fad-605a-e012-38c977bf035b.htm" />
+  <HelpKINode Title="ISingleAxis.Jog method" Url="html/3ff3e6ed-a3b2-cfd2-752c-bcaf467702a0.htm" />
+  <HelpKINode Title="ISingleAxis.MotionStatus property" Url="html/f356764c-b28a-29b1-6e8a-fd60f0b95f2f.htm" />
+  <HelpKINode Title="ISingleAxis.MoveAbsolute method" Url="html/c74175f3-c03d-e3a9-9768-584f736375f1.htm" />
+  <HelpKINode Title="ISingleAxis.MoveRelative method" Url="html/afc25239-4d03-734f-e942-aa3531441190.htm" />
+  <HelpKINode Title="ISingleAxis.ServoOff method" Url="html/09ac0d3c-4bcf-6f8a-f6d2-d8eb053294c9.htm" />
+  <HelpKINode Title="ISingleAxis.ServoOn method" Url="html/74fb8b07-547e-93bb-9599-02e9a9652f1e.htm" />
+  <HelpKINode Title="ISingleAxis.ServoOnStatus property" Url="html/3e8e5f83-33da-07e6-d55c-489d1cf6dfd9.htm" />
+  <HelpKINode Title="ISingleAxis.SetPositionsZero method" Url="html/ceaf3d15-0d4a-0a09-8159-9a73c716accd.htm" />
+  <HelpKINode Title="ISingleAxis.SmoothFactor property" Url="html/7f2cfe24-c13f-2845-3798-d62e969e8121.htm" />
+  <HelpKINode Title="ISingleAxis.Stop method" Url="html/75b325bb-7114-f30c-d091-a32b2f96b65b.htm" />
+  <HelpKINode Title="ISingleAxis.TargetAcceleration property" Url="html/188b5b8e-3732-0c2b-1250-de542f159eb2.htm" />
+  <HelpKINode Title="ISingleAxis.TargetDeceleration property" Url="html/12495f14-6337-0539-dee9-c38ccab9361a.htm" />
+  <HelpKINode Title="ISingleAxis.TargetEmergencyDeceleration property" Url="html/d4e62307-f35d-0f11-2658-cea28edf03b5.htm" />
+  <HelpKINode Title="ISingleAxis.TargetVelocity property" Url="html/ca36b54f-327c-9c36-cc24-8c693d00f4f4.htm" />
+  <HelpKINode Title="ISingleAxis.WaitCommmutationDone method" Url="html/24f531fc-3144-d9ae-8a9a-a6b699508fb9.htm" />
+  <HelpKINode Title="ISingleAxis.WaitHomingDone method" Url="html/24649578-7e1d-e66a-bb07-4b026f90dec7.htm" />
+  <HelpKINode Title="ISingleAxis.WaitMotionDone method" Url="html/06282164-ec4c-e218-e124-e1fd33840474.htm" />
+  <HelpKINode Title="Jog method" Url="html/3ff3e6ed-a3b2-cfd2-752c-bcaf467702a0.htm" />
+  <HelpKINode Title="LastPushedEntry enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="LastPushedEntry property" Url="html/123c77ea-73b3-75da-2198-605fefee3047.htm" />
+  <HelpKINode Title="LastSegmentEntry enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="LastSegmentEntry property" Url="html/334bbcb7-b8a1-942f-0e94-7fa9ef3359d3.htm" />
+  <HelpKINode Title="LastSegmentPushParam enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="LastSegmentPushParam property" Url="html/ca88609b-ff1a-2695-d302-c1b3a731b990.htm" />
+  <HelpKINode Title="LastSegmentTotalParam enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="LastSegmentTotalParam property" Url="html/4497967c-7491-73a6-dee4-2a4f1bc84aee.htm" />
+  <HelpKINode Title="LastUsedID enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="LastUsedID property" Url="html/8c2310d7-a13f-1686-bb0c-1340f905def8.htm" />
+  <HelpKINode Title="Linear method" Url="html/002d4eba-23a3-d34d-6f28-2d73c827024d.htm" />
+  <HelpKINode Title="LinearDCBrushless enumeration member" Url="html/6ed9245e-0ba2-2b1b-dc81-0b5a39d74cd6.htm" />
+  <HelpKINode Title="MethodArgumentUnknown enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MethodNotImplemented enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MethodWithThisArgumentNotImplemented enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotionBegin method" Url="html/634e36c6-5d07-efa7-e7fa-7e26c5b2252f.htm" />
+  <HelpKINode Title="MotionBeginError enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotionController class">
+    <HelpKINode Title="MotionController Class" Url="html/8de1b5e9-ec9a-1c1c-1b4a-2ea1047c12c9.htm" />
+    <HelpKINode Title="about MotionController class" Url="html/8de1b5e9-ec9a-1c1c-1b4a-2ea1047c12c9.htm" />
+    <HelpKINode Title="constructor" Url="html/46b72377-25d4-e1a6-d865-33086311375e.htm" />
+    <HelpKINode Title="fields" Url="html/94f781b6-b5fb-207b-568a-90c98b43ed32.htm" />
+    <HelpKINode Title="methods" Url="html/a2c66054-f906-caf8-027d-c0ddeff425ba.htm" />
+    <HelpKINode Title="properties" Url="html/19af0e83-3f23-1988-7060-6a0404fd7519.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MotionController enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotionController.AxisA field" Url="html/38a23d7f-95ae-dfd9-dfd7-62b2dbc8cbea.htm" />
+  <HelpKINode Title="MotionController.AxisB field" Url="html/863a1dc1-6b11-8f79-aedb-c7b619cedfa5.htm" />
+  <HelpKINode Title="MotionController.AxisC field" Url="html/30b21ec5-abf2-b6f9-5923-eb99f3ef9814.htm" />
+  <HelpKINode Title="MotionController.CommmunicationType property" Url="html/93c82471-14bf-8493-a016-7f0e2d5d0423.htm" />
+  <HelpKINode Title="MotionController.Connect method" Url="html/1c510279-64e3-7273-78a2-c66652fb6688.htm" />
+  <HelpKINode Title="MotionController.Disconnect method" Url="html/4aedc4a6-574a-72a2-62a6-1980572a90cd.htm" />
+  <HelpKINode Title="MotionController.Dispose method" Url="html/1e00cc3c-546c-2b8f-a5b7-1a4144c382bf.htm" />
+  <HelpKINode Title="MotionController.ErrorCode property" Url="html/80c3783d-8fcf-8e47-89c9-ca112984a1f4.htm" />
+  <HelpKINode Title="MotionController.ErrorMessage property" Url="html/bec00057-9cd2-b59a-e19d-bb36bba55349.htm" />
+  <HelpKINode Title="MotionController.GetAllErrorCodes method" Url="html/1a1cc5bf-16f9-3905-9f8d-80a6e78d09ac.htm" />
+  <HelpKINode Title="MotionController.GetAllErrorMessages method" Url="html/cb1ab110-5c6e-1fe9-8f9b-827215fbc1ba.htm" />
+  <HelpKINode Title="MotionController.GetDSPFirmwareVersion method" Url="html/01c4d321-0512-a19d-bb7a-8507c955e32d.htm" />
+  <HelpKINode Title="MotionController.GetFPGAFirmwareVersion method" Url="html/a24ffdc0-700f-bcb2-6378-a11b96c1be3e.htm" />
+  <HelpKINode Title="MotionController.Group field" Url="html/e5c6f9a8-c8b1-0356-6056-7151df40dfbd.htm" />
+  <HelpKINode Title="MotionController.IO_A field" Url="html/26f3e804-b8e3-58fc-0cd3-f70ed300b7ac.htm" />
+  <HelpKINode Title="MotionController.IO_B field" Url="html/11a2061b-6faf-a1ad-27f0-a7bd24673728.htm" />
+  <HelpKINode Title="MotionController.IO_C field" Url="html/3f1271db-b7d9-5123-0436-a68d77468fb7.htm" />
+  <HelpKINode Title="MotionController.IsConnected property" Url="html/6df80dcd-c52b-1acd-9d34-14e9e9a1dd86.htm" />
+  <HelpKINode Title="MotionController.MotionController constructor" Url="html/46b72377-25d4-e1a6-d865-33086311375e.htm" />
+  <HelpKINode Title="MotionController.SendCommandString method" Url="html/23bac496-99b8-01b6-4164-b3894be1a088.htm" />
+  <HelpKINode Title="MotionController.Type property" Url="html/f0af1f9a-3346-b9a4-78c1-df880b85af6d.htm" />
+  <HelpKINode Title="MotionStatus enumeration member" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="MotionStatus property" Url="html/f356764c-b28a-29b1-6e8a-fd60f0b95f2f.htm" />
+  <HelpKINode Title="MotorChangeSettingsFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorCommutationTimeout enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorControllerConnectionTerminated enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorControllerNotConnected enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorDriverError enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorGetTargetParameterFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorHomeFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorHomingError enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorHomingTimedOut enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorIsNotEnabled enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorIsNotOn enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorMethodArgumentOutOfRange enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorMotionNotYetCompleted enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorMovingTimedOut enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorNotHomed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorOffFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorOnFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorOverCurrent enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorPositionSetFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorSettingsOutOfRange enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorStatusError enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorStoppedDisabled enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorStoppedEmergency enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorStoppedNegLimitSwitch enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorStoppedNegSoftwareLimit enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorStoppedNormal enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorStoppedPosLimitSwitch enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorStoppedPosSoftwareLimit enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MotorType enumeration" Url="html/6ed9245e-0ba2-2b1b-dc81-0b5a39d74cd6.htm" />
+  <HelpKINode Title="MotorType enumeration member" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="MoveAbsolute method" Url="html/c74175f3-c03d-e3a9-9768-584f736375f1.htm" />
+  <HelpKINode Title="MoveFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="MoveRelative method" Url="html/afc25239-4d03-734f-e942-aa3531441190.htm" />
+  <HelpKINode Title="NegativeToIndex enumeration member" Url="html/10d9419e-336c-79bb-6983-fea755092a47.htm" />
+  <HelpKINode Title="NegativeToLimit enumeration member" Url="html/10d9419e-336c-79bb-6983-fea755092a47.htm" />
+  <HelpKINode Title="NegativeToLimitPositiveToIndex enumeration member" Url="html/10d9419e-336c-79bb-6983-fea755092a47.htm" />
+  <HelpKINode Title="NodeGetParameter enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="NoError enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="NormalDeceleration enumeration member" Url="html/661e92ff-9630-a50f-69b2-7bde50ff91cc.htm" />
+  <HelpKINode Title="NotHomed enumeration member" Url="html/414ee582-d3fd-bb1d-2583-556358055003.htm" />
+  <HelpKINode Title="OldestEntry enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="OldestEntry property" Url="html/504dd320-2302-992c-6be8-5fccf9e0568b.htm" />
+  <HelpKINode Title="OutbitsCount property" Url="html/fb8d6270-c994-137e-9c6e-29c1c696d9ae.htm" />
+  <HelpKINode Title="PauseBufferExecution method" Url="html/484f7821-49ac-2d24-9a2c-28126c92bf5f.htm" />
+  <HelpKINode Title="PositiveToIndex enumeration member" Url="html/10d9419e-336c-79bb-6983-fea755092a47.htm" />
+  <HelpKINode Title="PositiveToLimit enumeration member" Url="html/10d9419e-336c-79bb-6983-fea755092a47.htm" />
+  <HelpKINode Title="PositiveToLimitNegativeToIndex enumeration member" Url="html/10d9419e-336c-79bb-6983-fea755092a47.htm" />
+  <HelpKINode Title="PropertyGetParameter enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="PushDelayMotion method" Url="html/79f5283c-2b4b-b760-8763-915319a0e9a2.htm" />
+  <HelpKINode Title="ResumeBufferExecution method" Url="html/a3508689-0d2a-6720-1dea-36d35f9eb131.htm" />
+  <HelpKINode Title="RotaryDCBrushless enumeration member" Url="html/6ed9245e-0ba2-2b1b-dc81-0b5a39d74cd6.htm" />
+  <HelpKINode Title="RS232 enumeration member" Url="html/44750821-dd4e-4734-145f-85147aeda8e0.htm" />
+  <HelpKINode Title="SendCommandString method" Url="html/23bac496-99b8-01b6-4164-b3894be1a088.htm" />
+  <HelpKINode Title="SendStringFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ServoOff method" Url="html/09ac0d3c-4bcf-6f8a-f6d2-d8eb053294c9.htm" />
+  <HelpKINode Title="ServoOffAllAxis method" Url="html/b3c735a6-ff5a-6297-3b46-ca9efd21404b.htm" />
+  <HelpKINode Title="ServoOffFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ServoOn method" Url="html/74fb8b07-547e-93bb-9599-02e9a9652f1e.htm" />
+  <HelpKINode Title="ServoOnAllAxis method" Url="html/dc69d29f-2203-38ab-6019-b411d35eb4a6.htm" />
+  <HelpKINode Title="ServoOnFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="ServoOnStatus enumeration member" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="ServoOnStatus property" Url="html/3e8e5f83-33da-07e6-d55c-489d1cf6dfd9.htm" />
+  <HelpKINode Title="SetAxisToGroupMotionModeFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="SetCommandNotImplemented enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="SetMotionProfile method" Url="html/0f0ff056-8314-b1db-7f1b-709a7cc9dfbe.htm" />
+  <HelpKINode Title="SetOutputBit method" Url="html/33d7ee33-abae-3e74-ad52-5c4181b28fa2.htm" />
+  <HelpKINode Title="SetPositionsZero method">
+    <HelpKINode Title="IGroupAxis.SetPositionsZero Method " Url="html/e1113a3e-0e2d-58a8-2615-2e330cc4b361.htm" />
+    <HelpKINode Title="ISingleAxis.SetPositionsZero Method " Url="html/ceaf3d15-0d4a-0a09-8159-9a73c716accd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetStartPositions method" Url="html/39eb4653-cad9-1db7-f8af-791baec48006.htm" />
+  <HelpKINode Title="Simulation enumeration member" Url="html/6ed9245e-0ba2-2b1b-dc81-0b5a39d74cd6.htm" />
+  <HelpKINode Title="Simulator enumeration member">
+    <HelpKINode Title="CommType Enumeration" Url="html/44750821-dd4e-4734-145f-85147aeda8e0.htm" />
+    <HelpKINode Title="ControllerType Enumeration" Url="html/11e12640-76ed-6f36-358f-c9c7c359dbd3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SingleAxisPropertyList enumeration" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="SmoothFactor enumeration member">
+    <HelpKINode Title="GroupAxisPropertyList Enumeration" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+    <HelpKINode Title="SingleAxisPropertyList Enumeration" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SmoothFactor property" Url="html/7f2cfe24-c13f-2845-3798-d62e969e8121.htm" />
+  <HelpKINode Title="SpeedPercentage enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="Stop method">
+    <HelpKINode Title="IGroupAxis.Stop Method " Url="html/88bb1616-05e1-0f30-ab77-ac0afeb0ac3b.htm" />
+    <HelpKINode Title="ISingleAxis.Stop Method " Url="html/75b325bb-7114-f30c-d091-a32b2f96b65b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StopFailed enumeration member" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+  <HelpKINode Title="TargetAcceleration enumeration member">
+    <HelpKINode Title="GroupAxisPropertyList Enumeration" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+    <HelpKINode Title="SingleAxisPropertyList Enumeration" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TargetAcceleration property" Url="html/188b5b8e-3732-0c2b-1250-de542f159eb2.htm" />
+  <HelpKINode Title="TargetDeceleration enumeration member">
+    <HelpKINode Title="GroupAxisPropertyList Enumeration" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+    <HelpKINode Title="SingleAxisPropertyList Enumeration" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TargetDeceleration property" Url="html/12495f14-6337-0539-dee9-c38ccab9361a.htm" />
+  <HelpKINode Title="TargetEmergencyDeceleration enumeration member" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="TargetEmergencyDeceleration property" Url="html/d4e62307-f35d-0f11-2658-cea28edf03b5.htm" />
+  <HelpKINode Title="TargetVelocity enumeration member" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+  <HelpKINode Title="TargetVelocity property" Url="html/ca36b54f-327c-9c36-cc24-8c693d00f4f4.htm" />
+  <HelpKINode Title="Type property" Url="html/f0af1f9a-3346-b9a4-78c1-df880b85af6d.htm" />
+  <HelpKINode Title="Unknown enumeration member" Url="html/6ed9245e-0ba2-2b1b-dc81-0b5a39d74cd6.htm" />
+  <HelpKINode Title="UpdateDisplay property" Url="html/d33feb04-9aef-2fe0-77ad-b1f49b1d80c4.htm" />
+  <HelpKINode Title="VectorSpeed enumeration member" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+  <HelpKINode Title="VectorSpeed property" Url="html/f3caf62e-6bf7-d675-fd3f-40effa75bdcb.htm" />
+  <HelpKINode Title="Version" Url="html/ee3a8c8b-8660-4ecb-a9c3-3866a07a218b.htm" />
+  <HelpKINode Title="VoiceCoil enumeration member" Url="html/6ed9245e-0ba2-2b1b-dc81-0b5a39d74cd6.htm" />
+  <HelpKINode Title="WaitCommmutationDone method" Url="html/24f531fc-3144-d9ae-8a9a-a6b699508fb9.htm" />
+  <HelpKINode Title="WaitHomingDone method" Url="html/24649578-7e1d-e66a-bb07-4b026f90dec7.htm" />
+  <HelpKINode Title="WaitMotionDone method" Url="html/06282164-ec4c-e218-e124-e1fd33840474.htm" />
+  <HelpKINode Title="Welcome" Url="html/25b2bb73-a2f1-47e1-ab78-f100966e3105.htm" />
+  <HelpKINode Title="WriteDOPort method" Url="html/6fc2dc0e-f5d0-42d3-2db1-a5d3d71b3d1d.htm" />
+  <HelpKINode Title="WriteGenData method" Url="html/4874f829-ddcd-ce12-dce1-c9f8849e603d.htm" />
+</HelpKI>

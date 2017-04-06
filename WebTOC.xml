@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="0b10c448-82d6-45b1-aa52-88bd6fe78d2a" Title="Welcome" Url="html/25b2bb73-a2f1-47e1-ab78-f100966e3105.htm">
+    <HelpTOCNode Id="5f87ed84-4ff3-4690-9c58-c602d8055c56" Title="Getting Started" Url="html/9a85dd97-d46c-4d47-9fc3-0f5ef8294dd4.htm">
+      <HelpTOCNode Title="Programmer Guide" Url="html/d3cd96ea-b634-4903-ba31-42e9c2544ea5.htm" />
+      <HelpTOCNode Title="Troubleshooting" Url="html/cf02fb6d-416c-422c-a0f3-21656774cd80.htm" />
+      <HelpTOCNode Title="HLAPI Structure" Url="html/1ba3a6cd-3800-436c-892f-fa33e7a39fc1.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a18f7104-c8bb-423d-bc93-48ac797c6074" Title="API Overview" Url="html/914b0d1e-699b-0779-ab65-e9c9a32a382a.htm">
+      <HelpTOCNode Id="54635669-f094-484c-8183-6f53856501f1" Title="AAMotion" Url="html/b6435755-45bf-e9a9-42d8-d5a20c4ab75f.htm">
+        <HelpTOCNode Title="AxisHomeMethod Enumeration" Url="html/10d9419e-336c-79bb-6983-fea755092a47.htm" />
+        <HelpTOCNode Title="AxisHomingStatus Enumeration" Url="html/414ee582-d3fd-bb1d-2583-556358055003.htm" />
+        <HelpTOCNode Title="AxisMotionStatus Enumeration" Url="html/54f71b35-0c77-e2c1-94d2-287bc4171df6.htm" />
+        <HelpTOCNode Title="AxisStopType Enumeration" Url="html/661e92ff-9630-a50f-69b2-7bde50ff91cc.htm" />
+        <HelpTOCNode Title="CommType Enumeration" Url="html/44750821-dd4e-4734-145f-85147aeda8e0.htm" />
+        <HelpTOCNode Title="ControllerType Enumeration" Url="html/11e12640-76ed-6f36-358f-c9c7c359dbd3.htm" />
+        <HelpTOCNode Title="ErrorList Enumeration" Url="html/946252e3-7465-0c84-832a-6dd59ab8d24d.htm" />
+        <HelpTOCNode Title="GroupAxisMask Enumeration" Url="html/648d7578-15fc-da34-c60a-fefbafc37af3.htm" />
+        <HelpTOCNode Title="GroupAxisPropertyList Enumeration" Url="html/ac34880a-ef80-9d09-7878-f47faae816df.htm" />
+        <HelpTOCNode Id="2dc26311-f3c9-46a0-94a9-5a336b501bb6" Title="IGroupAxis Interface" Url="html/ab6008df-9872-94ae-c52f-91e05dc005e8.htm">
+          <HelpTOCNode Id="1a58db7d-5d5b-4a63-93b7-c736957c397a" Title="IGroupAxis Properties" Url="html/8f2d0c3d-7605-b359-f567-2732618fec89.htm">
+            <HelpTOCNode Title="AxisA Property " Url="html/2448c3e3-7484-7146-aa4e-0651e88549b3.htm" />
+            <HelpTOCNode Title="AxisB Property " Url="html/d6b14982-52c2-0c10-804a-f95b679a10ac.htm" />
+            <HelpTOCNode Title="AxisC Property " Url="html/d556aa47-eb9a-94bc-52ad-ab02b3ddf46e.htm" />
+            <HelpTOCNode Title="CNCFIFOInvolvedAxes Property " Url="html/e4ef7fe5-3d81-60c4-21b2-f73e9044284b.htm" />
+            <HelpTOCNode Title="CNCFIFOMembersAxes Property " Url="html/a0cb893f-e5cb-74ea-077c-36d0f3e042aa.htm" />
+            <HelpTOCNode Title="CNCFIFOMotionStatus Property " Url="html/b3d152dd-d6e6-c030-64c6-e2376a96b324.htm" />
+            <HelpTOCNode Title="FreeSpace Property " Url="html/2805ae17-d3c0-9b63-b202-cb83dcaa387f.htm" />
+            <HelpTOCNode Title="Group Property " Url="html/c0497b28-aa8f-b761-779a-98f59426947b.htm" />
+            <HelpTOCNode Title="InMotionID Property " Url="html/648d6eac-0cb1-7c5d-f52c-8e6300445eaf.htm" />
+            <HelpTOCNode Title="InMotionSegmentEntry Property " Url="html/505ceee2-1558-dc30-e916-2c40b2bbf834.htm" />
+            <HelpTOCNode Title="IO_A Property " Url="html/5d2b8d0e-be1d-5177-e640-247ff662f31f.htm" />
+            <HelpTOCNode Title="IO_B Property " Url="html/54959c1b-b8f2-6b86-6eea-a99d1be875d1.htm" />
+            <HelpTOCNode Title="IO_C Property " Url="html/30bad523-0ac4-25f2-bb33-1ee8d54beb33.htm" />
+            <HelpTOCNode Title="LastPushedEntry Property " Url="html/123c77ea-73b3-75da-2198-605fefee3047.htm" />
+            <HelpTOCNode Title="LastSegmentEntry Property " Url="html/334bbcb7-b8a1-942f-0e94-7fa9ef3359d3.htm" />
+            <HelpTOCNode Title="LastSegmentPushParam Property " Url="html/ca88609b-ff1a-2695-d302-c1b3a731b990.htm" />
+            <HelpTOCNode Title="LastSegmentTotalParam Property " Url="html/4497967c-7491-73a6-dee4-2a4f1bc84aee.htm" />
+            <HelpTOCNode Title="LastUsedID Property " Url="html/8c2310d7-a13f-1686-bb0c-1340f905def8.htm" />
+            <HelpTOCNode Title="OldestEntry Property " Url="html/504dd320-2302-992c-6be8-5fccf9e0568b.htm" />
+            <HelpTOCNode Title="VectorSpeed Property " Url="html/f3caf62e-6bf7-d675-fd3f-40effa75bdcb.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="9e169237-bf15-4945-b0c6-e6cdebdf87aa" Title="IGroupAxis Methods" Url="html/939d2a93-1c4a-2cc6-8eb9-6f37c2c09c3d.htm">
+            <HelpTOCNode Title="Abort Method " Url="html/03335ec5-9ea8-d2e7-6436-552ce21a86c5.htm" />
+            <HelpTOCNode Title="ArcXy Method " Url="html/19218a82-115c-3c9d-79ec-f8311d54aef3.htm" />
+            <HelpTOCNode Title="ArcYz Method " Url="html/a9cfb0d5-efe8-42bb-7548-325ee171e470.htm" />
+            <HelpTOCNode Title="ArcZx Method " Url="html/29364b7b-520c-8c57-3d11-4f53fb475395.htm" />
+            <HelpTOCNode Title="ClearBuffer Method " Url="html/788808ac-8e90-3edf-1b87-74b544883f2f.htm" />
+            <HelpTOCNode Title="ConfigurePDO Method " Url="html/223d6e95-5004-f739-51e1-92e10b0c3c05.htm" />
+            <HelpTOCNode Title="ConfigureSDO Method " Url="html/39095042-c43c-608c-96ea-7ca05acbc87e.htm" />
+            <HelpTOCNode Title="Enable Method " Url="html/b7cb84c2-c870-4c1b-62a9-16532bfe9fe0.htm" />
+            <HelpTOCNode Title="GetBufferPendingCommands Method " Url="html/0f843cc1-e255-e3dc-3b05-aac2941bd351.htm" />
+            <HelpTOCNode Title="Helix Method " Url="html/6091c447-f919-6840-90e0-caf41beef011.htm" />
+            <HelpTOCNode Title="Linear Method " Url="html/002d4eba-23a3-d34d-6f28-2d73c827024d.htm" />
+            <HelpTOCNode Title="MotionBegin Method " Url="html/634e36c6-5d07-efa7-e7fa-7e26c5b2252f.htm" />
+            <HelpTOCNode Title="PauseBufferExecution Method " Url="html/484f7821-49ac-2d24-9a2c-28126c92bf5f.htm" />
+            <HelpTOCNode Title="PushDelayMotion Method " Url="html/79f5283c-2b4b-b760-8763-915319a0e9a2.htm" />
+            <HelpTOCNode Title="ResumeBufferExecution Method " Url="html/a3508689-0d2a-6720-1dea-36d35f9eb131.htm" />
+            <HelpTOCNode Title="ServoOffAllAxis Method " Url="html/b3c735a6-ff5a-6297-3b46-ca9efd21404b.htm" />
+            <HelpTOCNode Title="ServoOnAllAxis Method " Url="html/dc69d29f-2203-38ab-6019-b411d35eb4a6.htm" />
+            <HelpTOCNode Title="SetMotionProfile Method " Url="html/0f0ff056-8314-b1db-7f1b-709a7cc9dfbe.htm" />
+            <HelpTOCNode Title="SetPositionsZero Method " Url="html/e1113a3e-0e2d-58a8-2615-2e330cc4b361.htm" />
+            <HelpTOCNode Title="SetStartPositions Method " Url="html/39eb4653-cad9-1db7-f8af-791baec48006.htm" />
+            <HelpTOCNode Title="Stop Method " Url="html/88bb1616-05e1-0f30-ab77-ac0afeb0ac3b.htm" />
+            <HelpTOCNode Title="WriteDOPort Method " Url="html/6fc2dc0e-f5d0-42d3-2db1-a5d3d71b3d1d.htm" />
+            <HelpTOCNode Title="WriteGenData Method " Url="html/4874f829-ddcd-ce12-dce1-c9f8849e603d.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="dd9da8ff-4dea-4ea6-85d1-8d84aaad711f" Title="IIOModule Interface" Url="html/030e2de1-1c8f-a2bc-b5a9-e37836144889.htm">
+          <HelpTOCNode Id="c6d454b9-2745-49f7-bd3e-57b9d809b4ee" Title="IIOModule Properties" Url="html/0575885f-8246-1f29-0d5c-1cefe1f5765e.htm">
+            <HelpTOCNode Title="InbitsCount Property " Url="html/2ff710f9-f9d6-63a3-5a12-1f146b1f3224.htm" />
+            <HelpTOCNode Title="OutbitsCount Property " Url="html/fb8d6270-c994-137e-9c6e-29c1c696d9ae.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="625fbbf3-1230-4e34-987f-d96f120aa1ea" Title="IIOModule Methods" Url="html/8ceb8859-002f-4f33-edd2-f6237da579d8.htm">
+            <HelpTOCNode Title="GetInputBit Method " Url="html/420755d9-0254-8ccb-7be9-10b6031b222a.htm" />
+            <HelpTOCNode Title="GetOutputBit Method " Url="html/d5559b90-23f3-cf30-3367-e03e06d844bc.htm" />
+            <HelpTOCNode Title="SetOutputBit Method " Url="html/33d7ee33-abae-3e74-ad52-5c4181b28fa2.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="0da30223-4f1b-4068-a055-af3092f3e68e" Title="INode Interface" Url="html/5d5762d6-20ff-6e91-b3e8-1d76c822deaf.htm">
+          <HelpTOCNode Id="3787db3b-f174-4e1d-967c-35ce779699a4" Title="INode Properties" Url="html/489fc97c-022c-c08b-1d2c-d479140f4a65.htm">
+            <HelpTOCNode Title="Axis Property " Url="html/77f46e8d-4993-5ca5-630c-1a211c501dc5.htm" />
+            <HelpTOCNode Title="ErrorCode Property " Url="html/4bc85458-edb6-bdfb-a412-23d7e1b18143.htm" />
+            <HelpTOCNode Title="ErrorMessage Property " Url="html/ddb1f25b-f8d4-6591-4d2b-f21c5d313ce6.htm" />
+            <HelpTOCNode Title="UpdateDisplay Property " Url="html/d33feb04-9aef-2fe0-77ad-b1f49b1d80c4.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="14224aa2-620f-4743-818f-c65c8c1618dc" Title="ISingleAxis Interface" Url="html/a2148d68-b41a-7785-9649-bf725ade98e9.htm">
+          <HelpTOCNode Id="6e928887-956d-4989-802a-423762fbdcf2" Title="ISingleAxis Properties" Url="html/76550017-5269-830d-7877-9d82a307e507.htm">
+            <HelpTOCNode Title="ActualPosition Property " Url="html/3aa0bd0a-995b-c09b-ec05-65109a952a48.htm" />
+            <HelpTOCNode Title="ActualVelocity Property " Url="html/994aeb97-5fce-d497-6bfb-4b0fdbede237.htm" />
+            <HelpTOCNode Title="CommandPosition Property " Url="html/1c9ca658-afff-d6e1-90bb-4025e348a584.htm" />
+            <HelpTOCNode Title="CommandVelocity Property " Url="html/a9e56c18-7433-daf0-d236-dff057e2135d.htm" />
+            <HelpTOCNode Title="ConnectedMotorType Property " Url="html/2abf0688-265d-d3b2-401f-ffc0e9b987e7.htm" />
+            <HelpTOCNode Title="HomingStatus Property " Url="html/6e64ff6c-0fad-605a-e012-38c977bf035b.htm" />
+            <HelpTOCNode Title="MotionStatus Property " Url="html/f356764c-b28a-29b1-6e8a-fd60f0b95f2f.htm" />
+            <HelpTOCNode Title="ServoOnStatus Property " Url="html/3e8e5f83-33da-07e6-d55c-489d1cf6dfd9.htm" />
+            <HelpTOCNode Title="SmoothFactor Property " Url="html/7f2cfe24-c13f-2845-3798-d62e969e8121.htm" />
+            <HelpTOCNode Title="TargetAcceleration Property " Url="html/188b5b8e-3732-0c2b-1250-de542f159eb2.htm" />
+            <HelpTOCNode Title="TargetDeceleration Property " Url="html/12495f14-6337-0539-dee9-c38ccab9361a.htm" />
+            <HelpTOCNode Title="TargetEmergencyDeceleration Property " Url="html/d4e62307-f35d-0f11-2658-cea28edf03b5.htm" />
+            <HelpTOCNode Title="TargetVelocity Property " Url="html/ca36b54f-327c-9c36-cc24-8c693d00f4f4.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="168a6644-e1f3-45f0-8728-81296ef4f187" Title="ISingleAxis Methods" Url="html/58d6ae6d-50e4-1d8c-b8f9-ebffd215c1b8.htm">
+            <HelpTOCNode Title="ConfigurePDO Method " Url="html/8e918c86-2186-f02a-d289-16966c192f22.htm" />
+            <HelpTOCNode Title="ConfigureSDO Method " Url="html/33738830-c4ef-6cc4-6358-44b41d73585d.htm" />
+            <HelpTOCNode Title="GroupEnable Method " Url="html/c0c1e749-6ac2-3c16-c74d-16ae23fad265.htm" />
+            <HelpTOCNode Title="Home Method " Url="html/188017b8-797d-5087-0a22-ddf171412edb.htm" />
+            <HelpTOCNode Title="Jog Method " Url="html/3ff3e6ed-a3b2-cfd2-752c-bcaf467702a0.htm" />
+            <HelpTOCNode Title="MoveAbsolute Method " Url="html/c74175f3-c03d-e3a9-9768-584f736375f1.htm" />
+            <HelpTOCNode Title="MoveRelative Method " Url="html/afc25239-4d03-734f-e942-aa3531441190.htm" />
+            <HelpTOCNode Title="ServoOff Method " Url="html/09ac0d3c-4bcf-6f8a-f6d2-d8eb053294c9.htm" />
+            <HelpTOCNode Title="ServoOn Method " Url="html/74fb8b07-547e-93bb-9599-02e9a9652f1e.htm" />
+            <HelpTOCNode Title="SetPositionsZero Method " Url="html/ceaf3d15-0d4a-0a09-8159-9a73c716accd.htm" />
+            <HelpTOCNode Id="e98583b8-38cd-4e48-9d8a-92f2f6818ea1" Title="Stop Method " Url="html/75b325bb-7114-f30c-d091-a32b2f96b65b.htm">
+              <HelpTOCNode Title="Stop Method (AxisStopType)" Url="html/68faae11-f26d-0ecb-d5c7-d6a730ca21ef.htm" />
+              <HelpTOCNode Title="Stop Method (AxisStopType, Boolean)" Url="html/f85c13a4-e2c9-1a99-97df-d7d3021ef33c.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="WaitCommmutationDone Method " Url="html/24f531fc-3144-d9ae-8a9a-a6b699508fb9.htm" />
+            <HelpTOCNode Title="WaitHomingDone Method " Url="html/24649578-7e1d-e66a-bb07-4b026f90dec7.htm" />
+            <HelpTOCNode Title="WaitMotionDone Method " Url="html/06282164-ec4c-e218-e124-e1fd33840474.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="9aae5925-96bd-4886-9428-19af3bd56fe9" Title="MotionController Class" Url="html/8de1b5e9-ec9a-1c1c-1b4a-2ea1047c12c9.htm">
+          <HelpTOCNode Title="MotionController Constructor " Url="html/46b72377-25d4-e1a6-d865-33086311375e.htm" />
+          <HelpTOCNode Id="4dd0b8e8-6e3f-4eba-bd47-aff3bd04d553" Title="MotionController Properties" Url="html/19af0e83-3f23-1988-7060-6a0404fd7519.htm">
+            <HelpTOCNode Title="CommmunicationType Property " Url="html/93c82471-14bf-8493-a016-7f0e2d5d0423.htm" />
+            <HelpTOCNode Title="ErrorCode Property " Url="html/80c3783d-8fcf-8e47-89c9-ca112984a1f4.htm" />
+            <HelpTOCNode Title="ErrorMessage Property " Url="html/bec00057-9cd2-b59a-e19d-bb36bba55349.htm" />
+            <HelpTOCNode Title="IsConnected Property " Url="html/6df80dcd-c52b-1acd-9d34-14e9e9a1dd86.htm" />
+            <HelpTOCNode Title="Type Property " Url="html/f0af1f9a-3346-b9a4-78c1-df880b85af6d.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="0d8120d0-5398-483b-881a-99dd4bb4ed1b" Title="MotionController Methods" Url="html/a2c66054-f906-caf8-027d-c0ddeff425ba.htm">
+            <HelpTOCNode Title="Connect Method " Url="html/1c510279-64e3-7273-78a2-c66652fb6688.htm" />
+            <HelpTOCNode Title="Disconnect Method " Url="html/4aedc4a6-574a-72a2-62a6-1980572a90cd.htm" />
+            <HelpTOCNode Title="Dispose Method " Url="html/1e00cc3c-546c-2b8f-a5b7-1a4144c382bf.htm" />
+            <HelpTOCNode Title="GetAllErrorCodes Method " Url="html/1a1cc5bf-16f9-3905-9f8d-80a6e78d09ac.htm" />
+            <HelpTOCNode Title="GetAllErrorMessages Method " Url="html/cb1ab110-5c6e-1fe9-8f9b-827215fbc1ba.htm" />
+            <HelpTOCNode Title="GetDSPFirmwareVersion Method " Url="html/01c4d321-0512-a19d-bb7a-8507c955e32d.htm" />
+            <HelpTOCNode Title="GetFPGAFirmwareVersion Method " Url="html/a24ffdc0-700f-bcb2-6378-a11b96c1be3e.htm" />
+            <HelpTOCNode Title="SendCommandString Method " Url="html/23bac496-99b8-01b6-4164-b3894be1a088.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="444344c1-55d8-4ff6-a0a6-1855f0c5269a" Title="MotionController Fields" Url="html/94f781b6-b5fb-207b-568a-90c98b43ed32.htm">
+            <HelpTOCNode Title="AxisA Field" Url="html/38a23d7f-95ae-dfd9-dfd7-62b2dbc8cbea.htm" />
+            <HelpTOCNode Title="AxisB Field" Url="html/863a1dc1-6b11-8f79-aedb-c7b619cedfa5.htm" />
+            <HelpTOCNode Title="AxisC Field" Url="html/30b21ec5-abf2-b6f9-5923-eb99f3ef9814.htm" />
+            <HelpTOCNode Title="Group Field" Url="html/e5c6f9a8-c8b1-0356-6056-7151df40dfbd.htm" />
+            <HelpTOCNode Title="IO_A Field" Url="html/26f3e804-b8e3-58fc-0cd3-f70ed300b7ac.htm" />
+            <HelpTOCNode Title="IO_B Field" Url="html/11a2061b-6faf-a1ad-27f0-a7bd24673728.htm" />
+            <HelpTOCNode Title="IO_C Field" Url="html/3f1271db-b7d9-5123-0436-a68d77468fb7.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Title="MotorType Enumeration" Url="html/6ed9245e-0ba2-2b1b-dc81-0b5a39d74cd6.htm" />
+        <HelpTOCNode Title="SingleAxisPropertyList Enumeration" Url="html/60d65031-5d05-c42e-2efa-4a5b7d4d5e5f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="67077f02-d58f-4adf-a3ae-763e65c36b65" Title="VersionHistory" Url="html/ee3a8c8b-8660-4ecb-a9c3-3866a07a218b.htm">
+      <HelpTOCNode Title="Development Road Map" Url="html/96bf1d83-64b9-47a3-ad31-f2eb68bb7276.htm" />
+      <HelpTOCNode Title="AAMotion v2.0.0.0" Url="html/fb822f20-7d9e-4eb5-87ff-6dd2a717f81d.htm" />
+      <HelpTOCNode Title="Documentation v1.0.0" Url="html/f953d544-fd9f-4e30-b0a9-9d45da1b1ce0.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
